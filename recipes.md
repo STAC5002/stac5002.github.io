@@ -2,7 +2,6 @@
 
 ## 🍝 Haupgerichte
 
-- [Tomatensuppe](/?recipe=tomatosoup)
 - [Pizza](/?recipe=pizza)
 
 ## 🍔 Fast Food
